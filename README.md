@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Watch the demo](https://img.icons8.com/ios-filled/100/000000/circled-play.png)]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1qcTnofJrPujuq4xRXBt5Zng5YMNcZIRe/view?usp=drive_link))
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with LICEcap
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
