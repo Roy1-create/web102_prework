@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[![Watch the demo](https://img.icons8.com/ios-filled/100/000000/circled-play.png)]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1qcTnofJrPujuq4xRXBt5Zng5YMNcZIRe/view?usp=drive_link))
+[![Watch the demo](https://img.icons8.com/ios-filled/100/000000/circled-play.png)](https://drive.google.com/file/d/1qcTnofJrPujuq4xRXBt5Zng5YMNcZIRe/view?usp=drive_link)
 
 <!-- Replace this with whatever GIF tool you used! -->
 
@@ -34,7 +34,7 @@ Here's a walkthrough of implemented features:
 
 ## Notes
 Challenge: 
-While building this app, I struggled with finding the keys. It was the longest part, especially getting the key for Challenge 3.
+While building this app, I struggled with finding the keys. It was the longest part, especially getting the key for Challenge 3. I also had trouble with implementing the walkthrough video.
 
 
 ## License
