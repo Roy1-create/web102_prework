@@ -21,6 +21,19 @@ body {
 
 .stats-container {
     display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center; 
+
+}
+
+/* This sets the cursor to pointer and the box-shadow to 0 0 30px on lightblue on hover */
+/* Challenge 2 Step 3: Check out style.css */
+.stats-container:hover {
+
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+
 }
 
 .stats-card {
